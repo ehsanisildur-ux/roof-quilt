@@ -36,3 +36,5 @@ The StudioNet workflow uses the pinned GenLayer CLI, two disposable wallets, and
 Test fixtures come from NYC Open Data, dataset `5zhs-2jue`. [City dataset](https://data.cityofnewyork.us/City-Government/BUILDING/5zhs-2jue/about_data) · [Empire State Building API record](https://data.cityofnewyork.us/resource/5zhs-2jue.json?bin=1015862&%24limit=2) · [Bronx API record](https://data.cityofnewyork.us/resource/5zhs-2jue.json?bin=2019299&%24limit=2).
 
 CLI receipt transport is reused under the MIT license. The footprint normalizer, raster, optimizer, contract state and geometry verifier are specific to RoofQuilt.
+
+[StudioNet receipts and verification](proofs/README.md) · [Submission text](SUBMISSION.md).
